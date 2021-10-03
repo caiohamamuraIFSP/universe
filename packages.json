@@ -1,0 +1,10 @@
+[
+    {
+        "package": "flightplanning",
+        "url": "https://github.com/caiohamamura/flightplanning-R"
+    },
+    {
+        "package": "radarBoxplot",
+        "url": "https://github.com/caiohamamura/radarBoxplot-R"
+    }
+]
