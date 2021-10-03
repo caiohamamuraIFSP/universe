@@ -6,5 +6,9 @@
     {
         "package": "radarBoxplot",
         "url": "https://github.com/caiohamamura/radarBoxplot-R"
+    },
+    {
+        "package": "rLiDAR",
+        "url": "https://github.com/carlos-alberto-silva/rLiDAR"
     }
 ]
