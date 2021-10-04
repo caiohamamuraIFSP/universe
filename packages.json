@@ -26,5 +26,13 @@
     {
         "package": "tabularMLC",
         "url": "https://github.com/caiohamamura/tabularMLC"
+    },
+    {
+        "package": "ForestGapR",
+        "url": "https://github.com/carlos-alberto-silva/ForestGapR"
+    },
+    {
+        "package": "rForest",
+        "url": "https://github.com/carlos-alberto-silva/rForest"
     }
 ]
