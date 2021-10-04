@@ -10,5 +10,21 @@
     {
         "package": "rLiDAR",
         "url": "https://github.com/carlos-alberto-silva/rLiDAR"
+    },
+    {
+        "package": "leafR",
+        "url": "https://github.com/DRAAlmeida/leafR"
+    },
+    {
+        "package": "rGEDI",
+        "url": "https://github.com/carlos-alberto-silva/rGEDI"
+    },
+    {
+        "package": "treetop",
+        "url": "https://github.com/carlos-alberto-silva/weblidar-treetop"
+    },
+    {
+        "package": "tabularMLC",
+        "url": "https://github.com/caiohamamura/tabularMLC"
     }
 ]
