@@ -34,5 +34,9 @@
     {
         "package": "rForest",
         "url": "https://github.com/carlos-alberto-silva/rForest"
+    },
+        {
+        "package": "rTLsDeep",
+        "url": "https://github.com/carlos-alberto-silva/rTLsDeep"
     }
 ]
